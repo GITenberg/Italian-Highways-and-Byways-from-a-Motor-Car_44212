@@ -1,0 +1,40 @@
+_repo: Italian-Highways-and-Byways-from-a-Motor-Car_44212
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McManus, Blanche
+    aliases:
+    - Mansfield, Blanche McManus
+    - MacManus, Blanche
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+covers:
+- cover_type: archival
+  image_path: 44212-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Mansfield, M.F
+    - Miltoun, Francis
+    - Mansfield, Milburg Francisco
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44212'
+  lccn: 09013515
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Description and travel'
+title: Italian Highways and Byways from a Motor Car
+url: http://www.gutenberg.org/ebooks/44212
